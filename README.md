@@ -1,0 +1,2 @@
+# premium-k8s-disaster-001-cluster-disaster-recovery-temp
+Your Kubernetes cluster just went down and you have no playbook. The Cluster Disaster Recovery Template transforms chaos into a structured, executable response plan—turning panic into precision.  Stop wasting hours scrambling through documentation during outages. This Notion template gives DevOps teams, platform engineers, and SREs a battle-tested
